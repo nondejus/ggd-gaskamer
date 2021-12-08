@@ -1,2 +1,23 @@
-# ggd-gaskamer
-hoornbrekerstraat kliniek
+----------------
+| ggd-gaskamer |
+----------------
+
+'hoornbrekerstraat 8 kliniek'
+
+
+# ggd
+https://nl.wikipedia.org/wiki/GGD_Rotterdam-Rijnmond
+
+# fentanyl
+https://en.wikipedia.org/wiki/Fentanyl
+
+# heroin
+https://en.wikipedia.org/wiki/Heroin
+
+# gaskamer
+https://nl.wikipedia.org/wiki/Gaskamer
+
+# erasmusbrug
+https://nl.wikipedia.org/wiki/Erasmusbrug
+
+doctor nekschot in action
